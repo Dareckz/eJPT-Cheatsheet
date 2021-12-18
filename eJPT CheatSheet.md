@@ -1,5 +1,3 @@
-*These notes will come handy in eJPT exam. Make sure to replace IP and PORT.*
-
 ## Routing
 To check routing,
 `ip route`
